@@ -1,3 +1,6 @@
 .DS_Store
 *.sln
 *.userprefs
+obj/
+bin/
+.vs/
